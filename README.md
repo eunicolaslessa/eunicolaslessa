@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindos ao meu perfil!! 💙
 
-<!--
-**eunicolaslessa/eunicolaslessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Me chame de Lessa**
 
-Here are some ideas to get you started:
+- Estou usando a platafoma para fins educativos
+- Pretendo compartilhar meus projetos aqui
+- Acompanhem minha evolução!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📱
+
+- contatonicolaslessa@hotmail.com
+- @eunicolaslessa
+
+![descrição do GIF](https://media.tenor.com/MFUjxlcOnEcAAAAM/harvey-specter-suits.gif)
